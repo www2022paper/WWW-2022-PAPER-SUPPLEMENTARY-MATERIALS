@@ -8,4 +8,4 @@ corresponding to the result in Section 5.2:
     run Simulation_analysis.py to calculate ITE.
     run Offline_test.py to calculate PMG.
 
-*Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication. Offline_test.py only provides the sample code to calculate percentage mean gain. NOT FOR REPRODUCE THE RESULT** in Section 5.2*
+*Note: Due to the privacy nature of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until we get authorization. Offline_test.py only provides the sample code to calculate percentage mean gain. NOT FOR REPRODUCE THE RESULT** in Section 5.2*
