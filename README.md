@@ -17,7 +17,7 @@ Steps to reproduce the results:
 #### ***Section 5.2 Offline Test***
 
 
-*Note: Due to the protected coypright of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until publication but the reader can use the code provided to run this algorithm on other dataset. However, a small part (about 2000 samples) of the complete data are provided in Data Folder just for testing the code, NOT FOR REPRODUCE THE RESULT in Section 5.2, and ALL THE 2000 SAMPLES HAVE BEEN Encrypted.*
+*Note: Due to the protected coypright of this real-world offine test dataset, currently we are not able to disclose the complete data used in this test until we get authorization but the reader can use the code provided to run this algorithm on other dataset. Note, a small part (about 2000 samples) of the complete data are provided in Data Folder just for testing the code, NOT FOR REPRODUCE THE RESULT in Section 5.2, and ALL THE 2000 SAMPLES HAVE BEEN Encrypted.*
 
 Steps to run the codes:
 ```
