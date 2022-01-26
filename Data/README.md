@@ -23,8 +23,8 @@ Each training sample was attributed with the following:
 This folder contains web-scale RCT data collected from a video streaming platform which was used as training instances. 
 The dataset records the users' campaign engagement duration (i.e., outcome) in seven randomly enrolled incentive groups, each offered bonuses at different levels (i.e., multi-treatment). In the experiments of Section 5.2, our dataset consists of over 100 K app visit instances. 
 
-Due to the protected coypright of the data, currently we are not able to disclose all the actual data used in our experiments until publication but the practitioner can use the code provided to run this algorithm on other dataset. 
-However, a small part (about 2000 samples) of real-world data are provided in **Data Folder** just for running the code, **NOT FOR REPRODUCE THE RESULT** in Section 5.2, and **ALL THE 2000 SAMPLES HAVE BEEN ENCRYPTED**. As stated in the paper, the complete dataset used in offline test will be released upon publication.
+Due to the protected coypright of the data, currently we are not able to disclose all the actual data used in our experiments until we get authorization but the practitioner can use the code provided to run this algorithm on other dataset. 
+Note, a small part (about 2000 samples) of real-world data are provided in **Data Folder** just for running the code, **NOT FOR REPRODUCE THE RESULT** in Section 5.2, and **ALL THE 2000 SAMPLES HAVE BEEN ENCRYPTED**. As stated in the paper, the complete dataset used in offline test will be released upon we get authorization.
 
 **RCT Data** - In order to let reader learn some meaning of our real-world RCT data features, we only introduce some of them.
 
